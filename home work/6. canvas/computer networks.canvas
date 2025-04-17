@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c4af10c45fc6b3e3","type":"text","text":"###  *Data link layer and medium access sub layer*\n---\n- [ ] Error Detection and Error Correction -Fundamentals\n- [ ] Block coding\n- [ ] Hamming Distance\n- [ ] CRC\n- [ ] Flow Control\n- [ ] Error control protocols - Stop and Wait\n- [ ] Goback ʹN ARQ\n- [ ] Selective Repeat ARQ\n- [ ] Sliding Window\n- [ ] Piggybacking\n- [ ] Random Access\n- [ ] Multiple access protocols\n- [ ] Pure ALOHA\n- [ ] Slotted ALOHA\n- [ ] CSMA/CD\n- [ ] CDMA/CA","x":-1040,"y":560,"width":530,"height":680,"color":"#7ac6d2"},
+		{"id":"ef5aa03db8b30b8f","type":"text","text":"### *Data communication components*\n---\n- [ ] Representation of data and its flow Networks\n- [ ] Various Connection Topology\n- [ ] Protocols and Standards\n- [ ] OSI model\n- [ ] Transmission Media\n- [ ] Wired LAN\n- [ ] Wireless LANs\n- [ ] Connecting LAN and Virtual LAN\n- [ ] Techniques for Bandwidth utilization\n- [ ] Multiplexing - Frequency division\n- [ ] Time division and Wave division\n- [ ] Concepts on spread spectrum","x":140,"y":660,"width":440,"height":560,"color":"#7ac6d2"},
+		{"id":"c474938ef5bbae91","type":"text","text":"#### *Computer Networks* \n---\n- [ ] Data communication components\n- [ ] Data link layer and medium access sub layer\n- [ ] Network layer\n- [ ] Transport layer\n- [ ] Application layer","x":-420,"y":140,"width":420,"height":460,"color":"#3a59d1"},
+		{"id":"d8d32da414f8f30d","x":-910,"y":1420,"width":400,"height":400,"type":"file","file":"home work/4. Indexes/computer networks/Chapter 2 - Data link layer and medium access sub layer.md"},
+		{"id":"280478a7e8c0850e","type":"file","file":"home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md","x":140,"y":1420,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"ad10130be30cab56","fromNode":"c474938ef5bbae91","fromSide":"bottom","toNode":"ef5aa03db8b30b8f","toSide":"left","color":"#3d90db"},
+		{"id":"afe82595f8479292","fromNode":"c4af10c45fc6b3e3","fromSide":"right","toNode":"c474938ef5bbae91","toSide":"bottom","color":"#3d90db"},
+		{"id":"bd695a9ab409af6e","fromNode":"d8d32da414f8f30d","fromSide":"right","toNode":"c4af10c45fc6b3e3","toSide":"right"},
+		{"id":"6e441bb2a793ec26","fromNode":"280478a7e8c0850e","fromSide":"left","toNode":"ef5aa03db8b30b8f","toSide":"left"}
+	]
+}

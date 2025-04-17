@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b6dff65580f32241",
+    "type": "split",
+    "children": [
+      {
+        "id": "74b88f6970b9882f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a58ea9f53580d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3- Network Layer"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "188424131f6cb58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9878b2c35afda493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "322442837b74d6a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1056d1d196d4c156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7672f7ba7f229f58",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "f1e2f9713d89a129",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8351bd784fd63ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22869c1d000ff899",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home work/Computer Networks/1.Rough Notes/Computer Networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Computer Networks"
+            }
+          },
+          {
+            "id": "74627c1b204fce02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d4f7878de80eede",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "df72b5e988b7f2a4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "dd87e99295f33e45",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "b18ed85ba0fa80a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home work/Computer Networks/1.Rough Notes/Computer Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Computer Networks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0a58ea9f53580d2a",
+  "lastOpenFiles": [
+    "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
+    "home work/4. Indexes/computer networks/Chapter 2 - Data link layer and medium access sub layer.md",
+    "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
+    "CSMA/CD.md",
+    "home work/5. Main Notes/Representation of data and its flow control.md",
+    "home work/6. canvas/computer networks.canvas",
+    "home work/5. Main Notes/various connection topology.md",
+    "home work/2.Source Material/Pasted image 20250418001828.png",
+    "home work/2.Source Material/Pasted image 20250417235820.png",
+    "home work/5. Main Notes/introduction to computer networks.md",
+    "home work/5. Main Notes/Slotted ALOHA.md",
+    "home work/5. Main Notes/CSMA-CD.md",
+    "home work/5. Main Notes/CDMA-CA.md",
+    "CSMA",
+    "home work/5. Main Notes/Pure ALOHA.md",
+    "home work/5. Main Notes/Multiple access protocols.md",
+    "home work/5. Main Notes/Random Access.md",
+    "home work/5. Main Notes/Piggybacking.md",
+    "home work/5. Main Notes/Sliding Window.md",
+    "home work/5. Main Notes/Selective Repeat ARQ.md",
+    "home work/5. Main Notes/Goback ʹN ARQ.md",
+    "home work/5. Main Notes/Error control protocols - Stop and Wait.md",
+    "home work/5. Main Notes/Flow Control.md",
+    "home work/5. Main Notes/CRC.md",
+    "home work/5. Main Notes/Hamming Distance.md",
+    "home work/5. Main Notes/Block coding.md",
+    "home work/5. Main Notes/Error Detection and Error Correction -Fundamentals.md",
+    "home work/5. Main Notes/Concepts on spread spectrum.md",
+    "home work/5. Main Notes/Time division and Wave division.md",
+    "home work/6. canvas",
+    "Untitled.canvas",
+    "home work/5. Main Notes",
+    "home work/4. Indexes/computer networks",
+    "home work/4. Indexes",
+    "home work/3. Templates",
+    "home work/2.Source Material",
+    "home work/1.Rough Notes",
+    "home work/Computer Networks/4. Indexes/Untitled",
+    "home work/Computer Networks/5. Main Notes",
+    "Pasted image 20250416103247.png",
+    "Pasted image 20250416103136.png",
+    "Pasted image 20250416103142.png"
+  ]
+}

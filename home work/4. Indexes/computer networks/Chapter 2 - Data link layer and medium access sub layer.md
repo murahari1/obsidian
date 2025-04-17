@@ -1,0 +1,18 @@
+tags: #computer_networks #technology 
+- [[Error Detection and Error Correction -Fundamentals]]
+- [[Block coding]]
+- [[Hamming Distance]]
+- [[CRC]]
+- [[ Flow Control]]
+- [[Error control protocols - Stop and Wait]]
+- [[Goback ʹN ARQ]]
+- [[Selective Repeat ARQ]]
+- [[Sliding Window]]
+- [[Piggybacking]]
+- [[Random Access]]
+- [[Multiple access protocols]]
+- [[Pure ALOHA]]
+- [[Slotted ALOHA]]
+- [[CSMA-CD]]
+- [[CDMA-CA]]
+- 
