@@ -11,10 +11,24 @@
             "id": "c41660419156cf1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "home work/5. Main Notes/various connection topology.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "various connection topology"
+            }
+          },
+          {
+            "id": "2dd7978bc981146b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -187,10 +201,16 @@
   },
   "active": "c41660419156cf1f",
   "lastOpenFiles": [
-    "home work/2.Source Material/Pasted image 20250417235820.png",
-    "home work/5. Main Notes/various connection topology.md",
-    "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
+    "home work/2.Source Material/Pasted image 20250418230254.png",
+    "home work/3. Templates/{{Title}}.md",
     "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
+    "home work/5. Main Notes/various connection topology.md",
+    "home work/5. Main Notes/Pasted.md",
+    "home work/5. Main Notes/![[Pasted.md",
+    "home work/2.Source Material/Pasted image 20250418224543.png",
+    "home work/2.Source Material/Pasted image 20250418223239.png",
+    "home work/2.Source Material/Pasted image 20250417235820.png",
+    "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
     "home work/4. Indexes/computer networks/Chapter 2 - Data link layer and medium access sub layer.md",
     "CSMA/CD.md",
     "home work/5. Main Notes/Representation of data and its flow control.md",
@@ -213,9 +233,6 @@
     "home work/5. Main Notes/CRC.md",
     "home work/5. Main Notes/Hamming Distance.md",
     "home work/5. Main Notes/Block coding.md",
-    "home work/5. Main Notes/Error Detection and Error Correction -Fundamentals.md",
-    "home work/5. Main Notes/Concepts on spread spectrum.md",
-    "home work/5. Main Notes/Time division and Wave division.md",
     "home work/6. canvas",
     "Untitled.canvas",
     "home work/5. Main Notes",
