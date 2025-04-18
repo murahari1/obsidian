@@ -14,3 +14,10 @@ Name: *me_as_nobody*
 
 ## *What are protocols and standards ?*
 
+Protocols are like rules that devices follows to communicate.
+
+Standards are like guidelines to use protocols so that data transmission goes smoothly.
+
+
+## *Protocols*
+
