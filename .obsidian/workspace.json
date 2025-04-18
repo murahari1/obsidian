@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "74b88f6970b9882f",
+        "id": "bf9363f7016eb130",
         "type": "tabs",
         "children": [
           {
-            "id": "0a58ea9f53580d2a",
+            "id": "c41660419156cf1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chapter 3- Network Layer"
+              "title": "New tab"
             }
           }
         ]
@@ -189,17 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a58ea9f53580d2a",
+  "active": "c41660419156cf1f",
   "lastOpenFiles": [
+    "home work/2.Source Material/Pasted image 20250417235820.png",
+    "home work/5. Main Notes/various connection topology.md",
+    "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
     "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
     "home work/4. Indexes/computer networks/Chapter 2 - Data link layer and medium access sub layer.md",
-    "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
     "CSMA/CD.md",
     "home work/5. Main Notes/Representation of data and its flow control.md",
     "home work/6. canvas/computer networks.canvas",
-    "home work/5. Main Notes/various connection topology.md",
     "home work/2.Source Material/Pasted image 20250418001828.png",
-    "home work/2.Source Material/Pasted image 20250417235820.png",
     "home work/5. Main Notes/introduction to computer networks.md",
     "home work/5. Main Notes/Slotted ALOHA.md",
     "home work/5. Main Notes/CSMA-CD.md",
