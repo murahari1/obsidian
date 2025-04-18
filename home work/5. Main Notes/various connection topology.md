@@ -15,16 +15,6 @@ Tags:
 
 A network topology is a structure or organization of devices connect in a network.
 There are 8 types of topologies:- 
-- Bus topology
-- Star topology
-- Ring topology
-- Mesh topology
-- Tree topology 
-- Hybrid topology
-- Point to Point topology
-- Daisy chain
-
-
 ### *Bus topology*
 
 ![[Pasted image 20250417235820.png]]
@@ -65,4 +55,37 @@ Its disadvantages are it is messy a lot, it needs more cables to connect and add
 
 ![[Pasted image 20250418230254.png]]
 
-In tree topology 
+In tree topology a root node (router) connects to sub nodes (switch) and it connects to more devices and so on.. it is hierarchical data flows up to down and down to up. The root link branches and branches links to leaves.
+Its advantages are it is good for large networks and it is easy to add a new device.
+Its disadvantages are it requires lot of wiring and it will make you tiring. if root fails then RIP network.
+
+
+### *Hybrid topology*
+
+![[Pasted image 20250418231819.png]]
+
+Hybrid topology mixes two or more topologies to meet certain specifications and needs.
+Its advantages are flexible, customizable and scalable. we can upgrade parts without rebuilding everything.
+Its disadvantages are complex to design and build and needs lot of wiring. it costs more and troubleshooting is tricky.
+
+
+### *Point to point*
+
+![[Pasted image 20250418233155.png]]
+
+In this topology two devices connected directly through a cable or bluetooth or wlan or Lan. There will be no middle man like router and switch.
+Its advantages are low latency faster data transfer. There is not middle man which makes it faster.
+Its disadvantages are we cannot build this for more than two devices.
+
+
+### *Daisy chain*
+
+![[Pasted image 20250418235243.png]]
+
+In this topology every device connects to other device using a wire like a device connects to b with one wire and b device connects to c using another wire. it is like bus topology but it is not. In bus topology all devices listens at the same time while in daisy chain all devices listens one after another.
+Its advantage is easy to add devices.
+its disadvantage is one failure stops the whole network.
+
+
+
+
