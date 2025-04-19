@@ -58,30 +58,12 @@ body,
   background-color: #444;
   border-radius: 4px;
 }
-/* 🕸️ Graph View Pure Black Background */
+/* 🎯 Pure Black Background for Graph View ONLY */
 
-.graph-view.color-fill,
-.graph-view.theme-dark {
+.graph-view,
+.graph-view .graph-view-container,
+.graph-view .graph-view-background,
+.graph-view svg {
   background-color: #000000 !important;
-}
-
-.graph-view .graph-view-background {
   fill: #000000 !important;
-}
-
-/* Graph nodes (dots) */
-.graph-view .graph-view-node {
-  color: #ffffff !important;
-  fill: #ffffff !important; /* node color */
-}
-
-/* Graph node outlines */
-.graph-view .graph-view-node .graph-view-node-inner {
-  stroke: #00ffff !important; /* node border color */
-}
-
-/* Graph edges (lines between nodes) */
-.graph-view .graph-view-edge {
-  stroke: #666666 !important; /* edge color */
-  stroke-opacity: 0.6 !important;
 }

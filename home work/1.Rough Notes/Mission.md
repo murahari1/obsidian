@@ -1,4 +1,4 @@
 #daily_goals
 
-- [ ] complete chapter one 
+- [ ] complete chapter one
 - [ ] 

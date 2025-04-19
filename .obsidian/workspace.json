@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c41660419156cf1f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "68ccd24e3a3ca8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
+                "file": "home work/5. Main Notes/Protocols and Standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 Data Communication components"
+              "title": "Protocols and Standards"
             }
           }
         ]
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 248.5
   },
   "right": {
     "id": "f1e2f9713d89a129",
@@ -138,12 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "home work/5. Main Notes/Protocols and Standards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Protocols and Standards"
             }
           },
           {
@@ -154,16 +145,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "dd87e99295f33e45",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -179,9 +160,19 @@
               "icon": "links-going-out",
               "title": "Outgoing links from Computer Networks"
             }
+          },
+          {
+            "id": "dd87e99295f33e45",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,11 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c41660419156cf1f",
+  "active": "68ccd24e3a3ca8b1",
   "lastOpenFiles": [
-    "home work/6. canvas/Untitled.canvas",
+    "home work/2.Source Material/Pasted image 20250419114934.png",
+    "home work/2.Source Material/Pasted image 20250419114904.png",
     "home work/5. Main Notes/Protocols and Standards.md",
     "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
+    "home work/1.Rough Notes/Mission.md",
+    "home work/6. canvas/Untitled.canvas",
     "home work/5. Main Notes/Representation of data and its flow control.md",
     "home work/5. Main Notes/various connection topology.md",
     "home work/2.Source Material/Pasted image 20250418235243.png",
@@ -236,7 +230,6 @@
     "home work/5. Main Notes/Error control protocols - Stop and Wait.md",
     "home work/5. Main Notes/Flow Control.md",
     "home work/5. Main Notes/CRC.md",
-    "home work/5. Main Notes/Hamming Distance.md",
     "home work/6. canvas",
     "Untitled.canvas",
     "home work/5. Main Notes",
@@ -247,7 +240,6 @@
     "home work/1.Rough Notes",
     "home work/Computer Networks/4. Indexes/Untitled",
     "home work/Computer Networks/5. Main Notes",
-    "Pasted image 20250416103247.png",
-    "Pasted image 20250416103136.png"
+    "Pasted image 20250416103247.png"
   ]
 }
