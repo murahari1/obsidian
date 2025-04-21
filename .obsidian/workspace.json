@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home work/5. Main Notes/Protocols and Standards.md",
+                "file": "home work/1.Rough Notes/Mission.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocols and Standards"
+              "title": "Mission"
             }
           }
         ]
@@ -143,8 +143,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -192,9 +192,9 @@
   },
   "active": "68ccd24e3a3ca8b1",
   "lastOpenFiles": [
+    "home work/5. Main Notes/Protocols and Standards.md",
     "home work/2.Source Material/Pasted image 20250419114934.png",
     "home work/2.Source Material/Pasted image 20250419114904.png",
-    "home work/5. Main Notes/Protocols and Standards.md",
     "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
     "home work/1.Rough Notes/Mission.md",
     "home work/6. canvas/Untitled.canvas",
@@ -239,7 +239,6 @@
     "home work/2.Source Material",
     "home work/1.Rough Notes",
     "home work/Computer Networks/4. Indexes/Untitled",
-    "home work/Computer Networks/5. Main Notes",
-    "Pasted image 20250416103247.png"
+    "home work/Computer Networks/5. Main Notes"
   ]
 }
