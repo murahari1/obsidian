@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home work/5. Main Notes/2025-04-21.md",
+                "file": "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-21"
+              "title": "Chapter 1 Data Communication components"
+            }
+          },
+          {
+            "id": "4d731f3669ac3f18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -192,8 +202,10 @@
   },
   "active": "68ccd24e3a3ca8b1",
   "lastOpenFiles": [
-    "home work/1.Rough Notes/Mission.md",
+    "home work/4. Indexes/Dairy",
+    "home work/4. Indexes/Dairy/April.md",
     "home work/5. Main Notes/2025-04-21.md",
+    "home work/1.Rough Notes/Mission.md",
     "home work/5. Main Notes/Protocols and Standards.md",
     "home work/2.Source Material/Pasted image 20250419114934.png",
     "home work/2.Source Material/Pasted image 20250419114904.png",
@@ -229,8 +241,6 @@
     "home work/5. Main Notes/Selective Repeat ARQ.md",
     "home work/5. Main Notes/Goback ʹN ARQ.md",
     "home work/5. Main Notes/Error control protocols - Stop and Wait.md",
-    "home work/5. Main Notes/Flow Control.md",
-    "home work/5. Main Notes/CRC.md",
     "home work/6. canvas",
     "Untitled.canvas",
     "home work/5. Main Notes",
