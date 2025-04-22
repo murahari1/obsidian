@@ -42,3 +42,57 @@
 
 ### *Local area network(LAN)*
 
+*Client* : Workstations.
+*Server* : It has more resources which clients use.
+*Network devices*
+1. *Repeater* : It is a hardware device which regenerates and amplifies incoming signals which will boost the networking distance.
+2. *Hubs* : It is a networking component which connects all devices and sends the data to all devices weather the device needs it or not and acts as a repeater. if two devices talks at once you will get a crash. it is also called as multiport repeater.
+3. *Transceiver* : it is a device which is capable of sending and grabbing data.
+4. *Network interface card(NIC)* : It acts as a gateway between computer and a network. Its what allows the computer to communicate with a network. It operates at data link layer.
+5. *Bridges* : A networking devices which allows to connect two or more local area networks to make a larger network. it operates at data link layer. it is a smarter hub. it filters traffic based on mac address. but using one bridge we can only connect two local area networks.
+6. *Switches* : Its a networking devices which allows to connect two or more devices within a network and it will send to only one who needs it. it is a layer two device. But some devices hits layer 3. it is also called as multiport bridge.
+7. *Routers* : It allows to send data to different networks. and its also capable of finding the nearest path. it works at level 3. it can ping across different networks.
+Hubs->Bridges->Switches->Routers.
+
+## *Switching networks* 
+
+*Switching a network means to switch between from one node to other node while transferring data from source to destination*
+
+There are two types of *Switching technologies*
+### *Circuit Switching*
+
+It is a networking method where a physical or dedicated path is setup between devices for whole conversation.
+
+There are three phases for this method
+1. *Establish* : when its start, the network finds and reserve the nearest path through switching nodes.
+2. *Transfer* : once the path is found the data will flow continuously till the transmission is completed.
+3. *Disconnect* : When the transmission is completed the path is freed so other devices can use that path.
+Must have switching capacity and channel capacity to establish connection.
+Must have intelligence to workout routing.
+
+There are four approaches to this.
+#### *Space-Division switch*
+
+
+#### *Time Division switch*
+
+#### *TDM Bus*
+
+#### *Combinations*
+
+
+### *Packet Switching*
+
+It is a efficient method which will chops the data into small chunks and sends it to the destination and after that it will reassemble the received packages. These small chunks called packets. 
+
+There are three steps for this.
+1. *Data chop* : The data gets splits into packets. Each with a header and payload.
+2. *Independent routing* : Each packet takes it own path through switching nodes.
+3. *Reassembly* : The destination device keeps back the packets together using sequence number.
+
+there are two approaches
+#### *Datagram approach* 
+
+
+#### *Virtual circuit approach*
+
