@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home work/5. Main Notes/2025-04-22.md",
+                "file": "home work/5. Main Notes/Week 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "Week 1"
             }
           },
           {
@@ -202,10 +202,13 @@
   },
   "active": "68ccd24e3a3ca8b1",
   "lastOpenFiles": [
-    "home work/4. Indexes/Dairy/April.md",
-    "home work/5. Main Notes/2025-04-22.md",
-    "home work/5. Main Notes/2025-04-21.md",
+    "home work/4. Indexes/NPTEL/NPTEL.md",
+    "home work/5. Main Notes/Week 1.md",
     "home work/4. Indexes/computer networks/Chapter 1 Data Communication components.md",
+    "home work/4. Indexes/NPTEL",
+    "home work/5. Main Notes/2025-04-22.md",
+    "home work/4. Indexes/Dairy/April.md",
+    "home work/5. Main Notes/2025-04-21.md",
     "home work/4. Indexes/Dairy",
     "home work/1.Rough Notes/Mission.md",
     "home work/5. Main Notes/Protocols and Standards.md",
@@ -240,8 +243,6 @@
     "home work/5. Main Notes/Piggybacking.md",
     "home work/5. Main Notes/Sliding Window.md",
     "home work/5. Main Notes/Selective Repeat ARQ.md",
-    "home work/5. Main Notes/Goback ʹN ARQ.md",
-    "home work/5. Main Notes/Error control protocols - Stop and Wait.md",
     "home work/6. canvas",
     "Untitled.canvas",
     "home work/5. Main Notes",
@@ -249,7 +250,6 @@
     "home work/4. Indexes",
     "home work/3. Templates",
     "home work/2.Source Material",
-    "home work/1.Rough Notes",
-    "home work/Computer Networks/4. Indexes/Untitled"
+    "home work/1.Rough Notes"
   ]
 }
