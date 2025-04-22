@@ -20,9 +20,20 @@
 *More protocols*
 - POP3 - post office protocol version 3 used to retrieving emails from a message server to a local device.
 - IMPA4 - Internet Message Access Protocol version 4 same as "POP3".
+- TELNET - It allows text based communication between user and client.
+- Trivial File Transfer protocol - It allows to transfer files between server and client.
+- BOOTP - Bootstrap protocol it will automatically configure devices with an IP address especially in initial booting process. it is a part of DHCP (Dynamic host configuration protocol).
+- ARP (Address resolution protocol) : it binds IP address and mac address together.
+- ICMP (Internet control message protocol) : It is used to report errors while transferring data.
 
 *To explain how internet travels we have two types of models*
-1. OSI(Open systems intercommunications) model designed by ISO(International standadization organization) it is of 7-layers. it is just a frame work.
+1. OSI(Open systems intercommunications) model designed by ISO(International standardization organization) it is of 7-layers. it is just a frame work.
 2. TCP/IP it is created by DARPA it is of 5 layers and it is real world application.
 
-OSI 
+*[[OSI model]]*
+
+*TCP/IP protocol*
+
+1. *Application layer* : it is used to interact with user and collect the data from the user using different types of protocols like telnet, ftp, http.. etc.
+2. *Transport layer* : Here TCP and UDP protocols acts and adds the app header info like source and destination ports, sequence numbers for reliability for TCP. UDP is lighter just ports and length it is fast but unreliable. 
+3. *Network layer* : This layer adds IP header for source and destination to transfer data, and it adds one TCP header. Here protocols like ARP and ICMP. it is like 
