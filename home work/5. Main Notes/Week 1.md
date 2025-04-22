@@ -36,4 +36,9 @@
 
 1. *Application layer* : it is used to interact with user and collect the data from the user using different types of protocols like telnet, ftp, http.. etc.
 2. *Transport layer* : Here TCP and UDP protocols acts and adds the app header info like source and destination ports, sequence numbers for reliability for TCP. UDP is lighter just ports and length it is fast but unreliable. 
-3. *Network layer* : This layer adds IP header for source and destination to transfer data, and it adds one TCP header. Here protocols like ARP and ICMP. it is like 
+3. *Network layer* : This layer adds IP header for source and destination to transfer data, and it adds one TCP header. Here protocols like ARP and ICMP. it is like GPS to our data.
+4. *Ethernet layer* : it adds ethernet header and trailer which is used for CRC for error checking.
+5. *Physical layer* : This physical layer turns data into electrical signal, radio waves and all. Nothing is added here just transmission.
+
+### *Local area network(LAN)*
+
