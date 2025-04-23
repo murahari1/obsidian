@@ -45,3 +45,35 @@ These are registered and maintained by the internet corporation for assigned nam
 Some TLD's are....
 ![[Pasted image 20250423111345.png]]
 
+A zone covers domain and its subdomain defined by a start of authority. Basically domains are divided into zones which are responsible for which individual servers are responsible.
+Each domain name is typically served by two DNS servers redundancy.
+
+- Primary server contains master copy of the data for the zone.
+- Secondary server gets copies of this data through zone transfer.
+
+*zone transfer*
+
+- Primary server loads all the data from the disk file.
+- Secondary server loads all the data from the primary server. when this happens it is called zone transfer.
+
+*Types of domains.*
+
+*Inverse domain* : it is used to map an IP address to domain name. and it is used to prevent spam by checking a spam with a IP address has a valid domain name.
+
+*Generic domains* : These are top level domains they aren't tied to any specific country or region. Unlike TLD's like .uk, .in they are broad, general purpose TLD's managed by ICANN (internet corporation for assigned names and numbers).
+
+*Country domains* : These are two lettered top level domains which are linked specific countries.
+
+### *Name resolution process*
+
+The process how domain name turn into IP address so our device can connect to server.
+*Steps*
+1. Local cache check.
+2. Query recursive DNS server.
+3. Root server query.
+4. TLD server query.
+5. Authoritative server query.
+6. Return and cache.
+
+This all process is handled by BIND server. it is a open source software.
+
