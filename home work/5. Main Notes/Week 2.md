@@ -77,3 +77,41 @@ The process how domain name turn into IP address so our device can connect to se
 
 This all process is handled by BIND server. it is a open source software.
 
+DNS database consists of Resource Records (RR). and these are divided into classes for different kinds of network. 
+
+
+## *Client server model*
+
+There are two types of servers
+1. Iterative server.
+2. Concurrent server.
+
+*Iterative server*
+A single copy of server runs at all times. A client may have to wait if the server is busy. It is used when server process knows how long it takes to complete one request.
+
+*Concurrent server*
+It is used when the amount of work required to handle a request is unknown, the server starts another process to handle each request. it handles multiple client connections simultaneously. 
+
+## *TCP/UDP*
+
+Before start of communication, a connection needs to be established between host and client.
+There are five components in a connection.
+1. Protocols.
+2. Source IP address.
+3. Source port number.
+4. Destination IP address.
+5. Destination port number.
+
+*Socket*
+it is used to achieve inter-process communication.
+it is also combination of protocol, port number and IP.
+
+
+**FTP**
+it often works with TCP protocol and TELNET protocol. defined as RFC959(it defines basic mechanism of ftp). 
+
+there are two connections
+- control connection.
+- data connection.
+control connection receives the data on port 21.
+data connection send data on port 20.
