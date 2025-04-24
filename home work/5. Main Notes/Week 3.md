@@ -33,3 +33,17 @@ Once a port is used by the client, it should not use that same port again. so th
 But we have a problem to this what if all ports ran out?
 
 *Solution 2*
+Give a unique connection id to packets so that the server recognizes the duplicates.
+But what if same number is used by the different client?
+
+*Solution 3*
+Set time T for packets, after T time the packets are destroyed with their acknowledgments.
+
+*There are three ways to limit packets life*
+1. Restricted network design : Keep networks tight so packets don't loop forever. It reduces the delay.
+2. Hop count : Set a hop count to each packet, if any packet exceeds its hop count it will be destroyed.
+3. Time stamp : Mark each packet with time but each router need a synched clocks. it is tricky.
+
+Now we should also kill the acknowledgments. Request and acknowledgment needs to be destroyed to avoid confusion.
+
+Define a max time T, if we wait for T seconds we can assume that both request and acknowledgments are gone. Rather than a physical clock, we should use a virtual clock like sequence numbers generated based on clocks ticks.
