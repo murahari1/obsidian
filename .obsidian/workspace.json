@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc728752a0dd9cea",
+            "id": "caa31fe89d49d615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home work/5. Main Notes/Week 3.md",
+                "file": "home work/5. Main Notes/2025-04-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 3"
+              "title": "2025-04-26"
             }
           }
         ]
@@ -190,12 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc728752a0dd9cea",
+  "active": "caa31fe89d49d615",
   "lastOpenFiles": [
-    "home work/4. Indexes/NPTEL/NPTEL.md",
-    "home work/5. Main Notes/Week 3.md",
-    "home work/5. Main Notes/2025-04-24.md",
     "home work/4. Indexes/Dairy/April.md",
+    "home work/5. Main Notes/2025-04-26.md",
+    "home work/5. Main Notes/2025-04-25.md",
+    "home work/5. Main Notes/Week 4.md",
+    "home work/4. Indexes/NPTEL/NPTEL.md",
+    "home work/5. Main Notes/2025-04-24.md",
+    "home work/5. Main Notes/Week 3.md",
     "home work/5. Main Notes/2025-04-23.md",
     "home work/5. Main Notes/Week 2.md",
     "home work/5. Main Notes/Week 1.md",
@@ -228,10 +231,7 @@
     "home work/5. Main Notes/![[Pasted.md",
     "home work/2.Source Material/Pasted image 20250418224543.png",
     "home work/4. Indexes/computer networks/Chapter 3- Network Layer.md",
-    "home work/4. Indexes/computer networks/Chapter 2 - Data link layer and medium access sub layer.md",
-    "CSMA/CD.md",
     "home work/6. canvas/computer networks.canvas",
-    "home work/5. Main Notes/introduction to computer networks.md",
     "CSMA",
     "home work/6. canvas",
     "Untitled.canvas",
