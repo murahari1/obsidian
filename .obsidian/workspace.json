@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home work/5. Main Notes/2025-04-27.md",
+                "file": "home work/5. Main Notes/2025-04-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-27"
+              "title": "2025-04-29"
+            }
+          },
+          {
+            "id": "23d5bbb49134a451",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
             }
           }
         ]
@@ -192,8 +204,10 @@
   },
   "active": "caa31fe89d49d615",
   "lastOpenFiles": [
-    "home work/5. Main Notes/2025-04-27.md",
     "home work/4. Indexes/Dairy/April.md",
+    "home work/5. Main Notes/2025-04-29.md",
+    "home work/5. Main Notes/2025-04-28.md",
+    "home work/5. Main Notes/2025-04-27.md",
     "home work/5. Main Notes/2025-04-26.md",
     "home work/5. Main Notes/2025-04-25.md",
     "home work/5. Main Notes/Week 4.md",
@@ -228,8 +242,6 @@
     "home work/2.Source Material/Pasted image 20250418231819.png",
     "home work/2.Source Material/Pasted image 20250418230254.png",
     "home work/3. Templates/{{Title}}.md",
-    "home work/5. Main Notes/Pasted.md",
-    "home work/5. Main Notes/![[Pasted.md",
     "home work/2.Source Material/Pasted image 20250418224543.png",
     "home work/6. canvas/computer networks.canvas",
     "CSMA",
